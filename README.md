@@ -347,7 +347,7 @@ Suggested GitHub topics:
 
 ## Author
 
-Your Name
+Chung Nguyen
 
 ---
 
